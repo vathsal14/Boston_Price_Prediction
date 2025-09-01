@@ -16,22 +16,6 @@ This project aims to develop a machine learning model that accurately predicts h
  - catboost
  - gunicorn
  
- # Getting Started
-This is make you understand how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
-
-1. Clone the repo
-
-```
-git clone https://github.com/KalyanMurapaka45/Spam-Email-Detection.git
-```
-
-2. Install the required libraries
-
-```
-pip install -r requirements.txt
-```
-
-3. Open and execute .ipynb file (After complete Execution you will get a .pkl file for project Deployment)
 
 # Dataset Description
 
